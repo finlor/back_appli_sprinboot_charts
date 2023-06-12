@@ -1,6 +1,6 @@
 Installation setting for the JAVA project
 
-###Configuration requires
+##Configuration requires
 Be sure you have Java 17
 Maven
 
